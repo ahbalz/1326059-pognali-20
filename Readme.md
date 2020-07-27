@@ -1,7 +1,7 @@
 # Личный проект «Погнали» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Касютина Анна](https://up.htmlacademy.ru/adaptive/20/user/1326059).
-* Наставник: [Марина Удовенко](https://htmlacademy.ru/profile/id7570).
+* Наставник: .
 
 ---
 
